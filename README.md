@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hey-m-krish
-- 👀 I’m interested in python and video editing
+- 👀 I’m interested in python and video editing.
 - 🌱 I’m currently learning editing videos
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at krishsharma1815@gmail.com
